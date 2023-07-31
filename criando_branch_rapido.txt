@@ -1,0 +1,2 @@
+o codigo para criar uma branch rapido é.
+git checkout -b nome_da_nova_branch nome_da_branch_principal
